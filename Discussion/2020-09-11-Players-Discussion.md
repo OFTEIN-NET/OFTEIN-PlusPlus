@@ -13,13 +13,13 @@ https://drive.google.com/drive/folders/1DJb0FrCh1p2YKMbW3pF77LDiPYvj0sZo?usp=sha
 
 ### Action Items
 *No	Task	Responsible	Status*
-1.	Draw and share software diagram with components that will work as implementation guidelines for the Project till April 2021. All players will contribute in the component development.	(Usman, Ahmad)	
-2.	Create a Github repository for [OF@TEIN++ project](https://github.com/OFTEIN-NET/OFTEIN-PlusPlus), where project-related discussion(s) will be maintained.  (Ahmad)
-3.	Check simplified version of Rancher which is open source	(Kittipat, Natt)	
-4.	Add contribution on concept diagram (left hand side ).	(UM/NCKU,NCU/Aris)
-5.	In next meeting Ahmad, Usman will make diagram for GIST tower internal details in a separate slide. 	(Ahmad, Usman)
-6.	From next month meeting every Tower Site will report plan and present result of playground Infrastructure. 	(All Players)
-7.	Each tower is responsible for generating Daily visibility reports on the status/visibility of Edge Cluster and end-boxes. 	(All Players)
+- [ ]	Draw and share software diagram with components that will work as implementation guidelines for the Project till April 2021. All players will contribute in the component development.	(Usman, Ahmad)	
+- [ ]	Create a Github repository for [OF@TEIN++ project](https://github.com/OFTEIN-NET/OFTEIN-PlusPlus), where project-related discussion(s) will be maintained.  (Ahmad)
+- [ ] Check simplified version of Rancher which is open source	(Kittipat, Natt)	
+- [ ] Add contribution on concept diagram (left hand side ).	(UM/NCKU,NCU/Aris)
+- [ ] In next meeting Ahmad, Usman will make diagram for GIST tower internal details in a separate slide. 	(Ahmad, Usman)
+- [ ] From next month meeting every Tower Site will report plan and present result of playground Infrastructure. 	(All Players)
+- [ ] Each tower is responsible for generating Daily visibility reports on the status/visibility of Edge Cluster and end-boxes. 	(All Players)
 
 ### Individual Discussion(s)
 **Usman**
