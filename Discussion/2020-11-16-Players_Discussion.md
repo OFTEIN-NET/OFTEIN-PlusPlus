@@ -17,18 +17,14 @@ https://drive.google.com/drive/folders/1DJb0FrCh1p2YKMbW3pF77LDiPYvj0sZo?usp=sha
 
 ## Discussion Topics
 
-1. One
--Two
--Three
--Four
 
-- Discussion from Last Meeting (Ambassadors and Players meeting on 2020/11/04)
-- Linking the front-end and back-end,
-- Share the kubectl token between Chula, GIST, and UM 
-- Github repo. 
--  API Server for Multi Tenant Portal
-- Dashboard settings, 
-- Integrated Design and SDN based CDN
+1- Discussion from Last Meeting (Ambassadors and Players meeting on 2020/11/04)
+2- Linking the front-end and back-end,
+3- Share the kubectl token between Chula, GIST, and UM 
+4- Github repo. 
+5-  API Server for Multi Tenant Portal
+6- Dashboard settings, 
+7- Integrated Design and SDN based CDN
 
 
 ## 1 - Discussion from last Ambassadors and Players Meeting
@@ -45,23 +41,34 @@ https://drive.google.com/drive/folders/1DJb0FrCh1p2YKMbW3pF77LDiPYvj0sZo?usp=sha
 
 6- OF@TEIN++ banner will be finalized.
 
-### Action Items
+### 2 - Action Items
 
-- [ ]
-- [ ]
-- [ ]
+- [] Ahmad, Satis, natt work on generating the token by throught the guideline steps and share the token. 
+    - [X] Chula Site
+    - [X] Um Site
+    - [X] GISt Site
+- [ ] Aris, Usman and Kittitpat can work on arranging the code in the repository.
+- [ ] 
 - [ ]
 - [ ]
 - [ ]
 
+###3 - Individual discussion
 
 
-## - Linking the front-end and back-end
+Prof. Chaodit
+
+Aris
+
+Natt
+Describes the token generation process. 
+
+## 3 - Linking the front-end and back-end
 
 In the OF@TEIN++ github repo code backend and frontend app have been updated.
 
 
-## - Share the kubectl token between Chula, GIST, and UM 
+## 4 - Share the kubectl token between Chula, GIST, and UM 
 
 Guidelines for sharing the token has been updated at the given link
 https://github.com/NattVi/OFTEIN-PlusPlus/tree/master/ProcedureFederation(Backend)
@@ -69,15 +76,15 @@ https://github.com/NattVi/OFTEIN-PlusPlus/tree/master/ProcedureFederation(Backen
 Sites at Chula, UM and GIST have have ganerated and shared the tokens with Natt. 
 
 
-## - Github repo. 
+## 5 - Github repo. 
 
-# - OFTEIN Multi Tenant Portal
-
-* https://github.com/OFTEIN-NET/OFTEIN-MultiTenantPortal
+* OFTEIN Multi Tenant Portal
 This repository runs automated build to create docker images for Multi Tenant Portal Frontend and Backend Apps.
+url: https://github.com/OFTEIN-NET/OFTEIN-MultiTenantPortal
 
-*Github repo for front-end maintained by Usman: https://github.com/smartx-usman/multi-tenant-portal-frontend
-* Github repo for back-end  mantained by Natt/Kittitpat: https://github.com/NattVi/OFTEIN-PlusPlus/tree/master/Demo
+*Github repo for front-end maintained by Usman, url: https://github.com/smartx-usman/multi-tenant-portal-frontend
+
+* Github repo for back-end  mantained by Natt/Kittitpat, url: https://github.com/NattVi/OFTEIN-PlusPlus/tree/master/Demo
 
 
 # API Server for Multi Tenant Portal
@@ -85,9 +92,9 @@ This repository runs automated build to create docker images for Multi Tenant Po
 * https://oftein-f5oec474zq-as.a.run.app/demo/delete
 * https://oftein-f5oec474zq-as.a.run.app/demo/create
 
-## Dashboard settings, 
+## 6 - Dashboard settings, 
 
-## Integrated Design and SDN based CDN
+## 7 -Integrated Design and SDN based CDN
 
 
 
