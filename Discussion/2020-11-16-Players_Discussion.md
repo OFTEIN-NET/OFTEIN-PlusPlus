@@ -17,7 +17,12 @@ https://drive.google.com/drive/folders/1DJb0FrCh1p2YKMbW3pF77LDiPYvj0sZo?usp=sha
 
 ## Discussion Topics
 
-- Action from Last Meeting (Ambassadors and Players meeting on 2020/11/04)
+1. One
+-Two
+-Three
+-Four
+
+- Discussion from Last Meeting (Ambassadors and Players meeting on 2020/11/04)
 - Linking the front-end and back-end,
 - Share the kubectl token between Chula, GIST, and UM 
 - Github repo. 
@@ -26,7 +31,7 @@ https://drive.google.com/drive/folders/1DJb0FrCh1p2YKMbW3pF77LDiPYvj0sZo?usp=sha
 - Integrated Design and SDN based CDN
 
 
-## - Action Items from last Ambassadors and Players Meeting
+## 1 - Discussion from last Ambassadors and Players Meeting
 
 1. For multi-portal deployment we will temporarily use Chula Site as host.
 
@@ -39,6 +44,16 @@ https://drive.google.com/drive/folders/1DJb0FrCh1p2YKMbW3pF77LDiPYvj0sZo?usp=sha
 5- For front-end access a domain name is required.
 
 6- OF@TEIN++ banner will be finalized.
+
+### Action Items
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
 
 
 ## - Linking the front-end and back-end
@@ -73,4 +88,6 @@ This repository runs automated build to create docker images for Multi Tenant Po
 ## Dashboard settings, 
 
 ## Integrated Design and SDN based CDN
+
+
 
