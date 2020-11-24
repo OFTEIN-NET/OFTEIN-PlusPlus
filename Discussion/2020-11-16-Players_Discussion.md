@@ -41,12 +41,12 @@ https://drive.google.com/drive/folders/1DJb0FrCh1p2YKMbW3pF77LDiPYvj0sZo?usp=sha
 6- OF@TEIN++ banner will be finalized.
 
 
-## Linking the front-end and back-end
+## - Linking the front-end and back-end
 
 In the OF@TEIN++ github repo code backend and frontend app have been updated.
 
 
-## Share the kubectl token between Chula, GIST, and UM 
+## - Share the kubectl token between Chula, GIST, and UM 
 
 Guidelines for sharing the token has been updated at the given link
 https://github.com/NattVi/OFTEIN-PlusPlus/tree/master/ProcedureFederation(Backend)
@@ -54,9 +54,9 @@ https://github.com/NattVi/OFTEIN-PlusPlus/tree/master/ProcedureFederation(Backen
 Sites at Chula, UM and GIST have have ganerated and shared the tokens with Natt. 
 
 
-## Github repo. 
+## - Github repo. 
 
-# OFTEIN Multi Tenant Portal
+# - OFTEIN Multi Tenant Portal
 
 * https://github.com/OFTEIN-NET/OFTEIN-MultiTenantPortal
 This repository runs automated build to create docker images for Multi Tenant Portal Frontend and Backend Apps.
