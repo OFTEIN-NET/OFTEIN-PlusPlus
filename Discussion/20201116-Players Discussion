@@ -1,0 +1,31 @@
+# OF@TEIN++ Playground: 3rd Players Discussion (Online)
+
+**Date/Time:**
+
+**Meeting Participants:**
+
+## Discussion Topics
+
+- Action from Last Meeting (Ambassadors and Players meeting on 2020/11/04)
+- Linking the front-end and back-end,
+- Share the kubectl token between Chula, GIST, and UM 
+- Github repo. 
+- Dashboard settings, 
+- Integrated Design and SDN based CDN
+
+
+
+## - Action Items from last Ambassadors and Players Meeting
+
+1. For multi-portal deployment we will temporarily use Chula Site as host.
+
+2- Provide proper naming for the Project and modules (e.g. demo).
+
+3- Main concern is how to pass information from front-end and link it with the back-end.
+
+4- As part of Integrated design it is suggested that both Sites update the design of “Multi-tenant Portal Design” and incorporate the changes. Alternatively add own design.
+
+5- For front-end access a domain name is required.
+
+6- OF@TEIN++ banner will be finalized.
+
