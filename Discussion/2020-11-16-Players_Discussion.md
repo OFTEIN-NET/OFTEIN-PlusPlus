@@ -17,29 +17,29 @@ https://drive.google.com/drive/folders/1DJb0FrCh1p2YKMbW3pF77LDiPYvj0sZo?usp=sha
 
 ## Discussion Topics
 
-
-1- Discussion from Last Meeting (Ambassadors and Players meeting on 2020/11/04)
-2- Linking the front-end and back-end,
-3- Share the kubectl token between Chula, GIST, and UM 
-4- Github repo. 
-5-  API Server for Multi Tenant Portal
-6- Dashboard settings, 
-7- Integrated Design and SDN based CDN
+- [ ]
+1. Discussion from Last Meeting (Ambassadors and Players meeting on 2020/11/04)
+1. Linking the front-end and back-end,
+1. Share the kubectl token between Chula, GIST, and UM 
+1. Github repo. 
+1.  API Server for Multi Tenant Portal
+1. Dashboard settings, 
+1. Integrated Design and SDN based CDN
 
 
 ## 1 - Discussion from last Ambassadors and Players Meeting
 
-1. For multi-portal deployment we will temporarily use Chula Site as host.
+* For multi-portal deployment we will temporarily use Chula Site as host.
 
-2- Provide proper naming for the Project and modules (e.g. demo).
+* Provide proper naming for the Project and modules (e.g. demo).
 
-3- Main concern is how to pass information from front-end and link it with the back-end.
+* Main concern is how to pass information from front-end and link it with the back-end.
 
-4- As part of Integrated design it is suggested that both Sites update the design of “Multi-tenant Portal Design” and incorporate the changes. Alternatively add own design.
+* As part of Integrated design it is suggested that both Sites update the design of “Multi-tenant Portal Design” and incorporate the changes. Alternatively add own design.
 
-5- For front-end access a domain name is required.
+* For front-end access a domain name is required.
 
-6- OF@TEIN++ banner will be finalized.
+* OF@TEIN++ banner will be finalized.
 
 ### 2 - Action Items
 
@@ -49,9 +49,9 @@ https://drive.google.com/drive/folders/1DJb0FrCh1p2YKMbW3pF77LDiPYvj0sZo?usp=sha
     - [X] GISt Site
 - [ ] Aris, Usman and Kittitpat can work on arranging the code in the repository.
 - [ ] 
-- [ ]
-- [ ]
-- [ ]
+- [ ] 
+- [ ] 
+- [ ] 
 
 ###3 - Individual discussion
 
