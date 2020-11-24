@@ -43,7 +43,7 @@ https://drive.google.com/drive/folders/1DJb0FrCh1p2YKMbW3pF77LDiPYvj0sZo?usp=sha
 
 ### 2 - Action Items
 
-- [] Ahmad, Satis, natt work on generating the token by throught the guideline steps and share the token. 
+- Ahmad, Satis, natt work on generating the token by throught the guideline steps and share the token. 
     - [X] Chula Site
     - [X] Um Site
     - [X] GISt Site
