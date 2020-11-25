@@ -17,8 +17,9 @@ https://drive.google.com/drive/folders/1DJb0FrCh1p2YKMbW3pF77LDiPYvj0sZo?usp=sha
 
 ## Discussion Topics
 
-- [ ]
+
 1. Discussion from Last Meeting (Ambassadors and Players meeting on 2020/11/04)
+1.Action Items
 1. Linking the front-end and back-end,
 1. Share the kubectl token between Chula, GIST, and UM 
 1. Github repo. 
@@ -43,29 +44,42 @@ https://drive.google.com/drive/folders/1DJb0FrCh1p2YKMbW3pF77LDiPYvj0sZo?usp=sha
 
 ### 2 - Action Items
 
-- Ahmad, Satis, natt work on generating the token by throught the guideline steps and share the token. 
+- [X] Ahmad, Satis, natt work on generating the token following the guideline steps and then share the respective tokens. 
     - [X] Chula Site
     - [X] Um Site
     - [X] GISt Site
 - [ ] Aris, Usman and Kittitpat can work on arranging the code in the repository.
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [X] Deploy and test the back-end service following the public cloud demo.
+- [X] In the Repo each Sites upload their development in seperate places with proper naming
+- [ ] Make a mechanism to Display the status Connection for the cluster and regularly check. Optional:" get only active cluster. Gather other neccessary informations
+- [ ] Merge the two Repos and share the merge results (Usman)
+- [ ] For running clusters use one physical machine with three VM's(UM)
 
-###3 - Individual discussion
+### 2.1 - Individual discussion
 
 
 Prof. Chaodit
 
-Aris
 
-Natt
-Describes the token generation process. 
+Natt/Kittitpat
+Describes the guidelines on token generation process. Demonstrate creating and deploying nginx in the UM Cluster. From the back-end pods can be deployed or deleted.
 
-## 3 - Linking the front-end and back-end
+On the Google Cloud Plaform back-end API is tested and service settings are configured. 
 
-In the OF@TEIN++ github repo code backend and frontend app have been updated.
+Dr. Aris
+Referred to Action itemns. 
+
+Dr. Usman/ Ahmad
+
+Satis
+ Demonstrate and Describes the token generating Process in details.
+
+## 3 - Linking/Integrating the front-end and back-end
+
+- Should start by checking the connection status of Cluster from the back-end with a specific message. 
+- Make a mechanism to Display the status Connection for the cluster and regularly check. Gather other neccessary informations
+- In the Yaml descriptors add the back-end add labels to identify the authentication of Pods. 
+- In the OF@TEIN++ github repo code backend and frontend app have been updated.
 
 
 ## 4 - Share the kubectl token between Chula, GIST, and UM 
