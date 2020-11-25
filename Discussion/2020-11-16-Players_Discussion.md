@@ -63,7 +63,7 @@ Describes the guidelines on token generation process. Demonstrate creating and d
 Referred to the Action items. 
 
 Dr. Usman/ Ahmad
-Refeered to the Action items. GIst site will generate the tokens and share with the Chula team.
+Referred to the Action items. GIst site will generate the tokens and share with the Chula team.
 Satis
  Demonstrate and Describes the token generating Process in details.
 
