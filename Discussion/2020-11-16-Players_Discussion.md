@@ -24,8 +24,7 @@ https://drive.google.com/drive/folders/1DJb0FrCh1p2YKMbW3pF77LDiPYvj0sZo?usp=sha
 1. Share the kubectl token between Chula, GIST, and UM 
 1. Github repo. 
 1.  API Server for Multi Tenant Portal
-1. Dashboard settings, 
-1. Integrated Design and SDN based CDN
+
 
 
 ## 1 - Discussion from last Ambassadors and Players Meeting
@@ -100,9 +99,7 @@ url: https://github.com/OFTEIN-NET/OFTEIN-MultiTenantPortal
 * https://oftein-f5oec474zq-as.a.run.app/demo/delete
 * https://oftein-f5oec474zq-as.a.run.app/demo/create
 
-## 6 - Dashboard settings, 
 
-## 7 -Integrated Design and SDN based CDN
 
 
 
