@@ -7,6 +7,7 @@
 ### Participants:
 
 *	GIST: 		Dr. Muhammad Usman, Muhammad Ahmad Rathore, Shahzeb
+*   Chula:      Prof. Chaodit, Natt, Kittipat
 *	UM/ID: 		Dr. Aris Cahyadi Risdianto, Satis Kumar
 * NCU/NCKU: Dr. PangWei
 *	CHULA: 		Natt Visavarungroj, Kittipat
