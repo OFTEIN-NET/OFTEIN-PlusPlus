@@ -89,7 +89,7 @@ Sites at Chula, UM and GIST have have ganerated and shared the tokens with Natt.
 This repository runs automated build to create docker images for Multi Tenant Portal Frontend and Backend Apps.
 url: https://github.com/OFTEIN-NET/OFTEIN-MultiTenantPortal
 
-*Github repo for front-end maintained by Usman, url: https://github.com/smartx-usman/multi-tenant-portal-frontend
+* Github repo for front-end maintained by Usman, url: https://github.com/smartx-usman/multi-tenant-portal-frontend
 
 * Github repo for back-end  mantained by Natt/Kittitpat, url: https://github.com/NattVi/OFTEIN-PlusPlus/tree/master/Demo
 
