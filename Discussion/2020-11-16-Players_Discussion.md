@@ -57,20 +57,14 @@ https://drive.google.com/drive/folders/1DJb0FrCh1p2YKMbW3pF77LDiPYvj0sZo?usp=sha
 
 ### 2.1 - Individual discussion
 
+* Natt/Kittitpat
+Describes the guidelines on token generation process. Demonstrate creating and deploying nginx in the UM Cluster. From the back-end pods can be deployed or deleted.On the Google Cloud Plaform back-end API is tested and service settings are configured. 
 
-Prof. Chaodit
-
-
-Natt/Kittitpat
-Describes the guidelines on token generation process. Demonstrate creating and deploying nginx in the UM Cluster. From the back-end pods can be deployed or deleted.
-
-On the Google Cloud Plaform back-end API is tested and service settings are configured. 
-
-Dr. Aris
-Referred to Action itemns. 
+*Dr. Aris
+Referred to the Action items. 
 
 Dr. Usman/ Ahmad
-
+Refeered to the Action items. GIst site will generate the tokens and share with the Chula team.
 Satis
  Demonstrate and Describes the token generating Process in details.
 
