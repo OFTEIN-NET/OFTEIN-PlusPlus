@@ -19,7 +19,7 @@ https://drive.google.com/drive/folders/1DJb0FrCh1p2YKMbW3pF77LDiPYvj0sZo?usp=sha
 
 
 1. Discussion from Last Meeting (Ambassadors and Players meeting on 2020/11/04)
-1.Action Items
+1. Action Items
 1. Linking the front-end and back-end,
 1. Share the kubectl token between Chula, GIST, and UM 
 1. Github repo. 
