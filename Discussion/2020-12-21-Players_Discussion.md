@@ -37,7 +37,7 @@ url: https://github.com/OFTEIN-NET/OFTEIN-MultiTenantPortal
 1. Other topics (optional): Kubeflow, intelligence path services, and other services.
 
 
-## 1 - Multi tenant portal : (1), (2)
+## 1.1,1.2 - Multi tenant portal : (1), (2)
 
 * edit api spec for pod creation - Kittipat
 - [PUT] to create a pod from yaml, userid, cluster
@@ -52,7 +52,7 @@ url: https://github.com/OFTEIN-NET/OFTEIN-MultiTenantPortal
 * review https://github.com/OFTEIN-NET/OFTEIN-MultiTenantPortal/pull/10/files# - Kittipat
 
 
-## 1 - Multi tenant portal : (3) test check the cluster status and create pod from the frond-end, not back-end
+## 1.3 - Multi tenant portal : (3) test check the cluster status and create pod from the frond-end, not back-end
 
 * Add functionality to create pods from frontend application 
 
