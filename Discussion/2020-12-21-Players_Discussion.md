@@ -37,8 +37,7 @@ url: https://github.com/OFTEIN-NET/OFTEIN-MultiTenantPortal
 1. Other topics (optional): Kubeflow, intelligence path services, and other services.
 
 
-## 1.1,1.2 - Multi tenant portal : (1), (2)
-
+## 1.1, 1.2 - Multi tenant portal
 * edit api spec for pod creation - Kittipat
   - [PUT] to create a pod from yaml, userid, cluster
   - [GET] list pod from specific cluster
