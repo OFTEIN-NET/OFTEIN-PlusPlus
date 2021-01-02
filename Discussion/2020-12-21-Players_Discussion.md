@@ -40,8 +40,8 @@ url: https://github.com/OFTEIN-NET/OFTEIN-MultiTenantPortal
 ## 1.1,1.2 - Multi tenant portal : (1), (2)
 
 * edit api spec for pod creation - Kittipat
-- [PUT] to create a pod from yaml, userid, cluster
-- [GET] list pod from specific cluster
+  - [PUT] to create a pod from yaml, userid, cluster
+  - [GET] list pod from specific cluster
 
 * finalize and update cluster name list ([Chula, UM, Gist]) - Kittipat
 
