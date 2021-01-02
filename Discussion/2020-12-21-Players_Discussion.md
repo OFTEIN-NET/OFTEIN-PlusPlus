@@ -63,7 +63,7 @@ url: https://github.com/OFTEIN-NET/OFTEIN-MultiTenantPortal
 ### 2 - Worker node integration progress and issues:
 
 * Worker for these sites are ready : Myanmar (2), Bhutan (1), Monash, Indonesia, taiwan, UM
-* worker nodes for Vietnam site is not available due to unavailable connection
+* Worker nodes for Vietnam site is not Ready due to unavailablity of connection
 
 ### 3 -Other topics: Kubeflow
 
