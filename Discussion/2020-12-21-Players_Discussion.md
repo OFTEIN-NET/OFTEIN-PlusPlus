@@ -66,18 +66,18 @@ url: https://github.com/OFTEIN-NET/OFTEIN-MultiTenantPortal
 ### 3 -Other topics: Kubeflow
 
 * Setup: 
-** Create Cluster on gist-OpenStack Machine
-** Deploying with minikube on a single node (Next Multinode using worker nodes)
-** Installed KubeFlow
+  - Create Cluster on gist-OpenStack Machine
+  - Deploying with minikube on a single node (Next Multinode using worker nodes)
+  - Installed KubeFlow
 
 * MNIST Experiment
-** Launch Kubeflow Dashboard
-** Creatre Note Book on Kubeflow Assign resources
-** Running the MNIST on jupyter notebook
+  - Launch Kubeflow Dashboard
+  - Creatre Note Book on Kubeflow Assign resources
+  - Running the MNIST on jupyter notebook
 
 * Next Steps
-** Deploy the Model and test
-** dataset: Measurement/Monitoring Visibility
+  - Deploy the Model and test
+  - dataset: Measurement/Monitoring Visibility
 
 
 
