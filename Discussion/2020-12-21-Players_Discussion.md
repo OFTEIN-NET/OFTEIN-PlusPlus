@@ -83,11 +83,11 @@ url: https://github.com/OFTEIN-NET/OFTEIN-MultiTenantPortal
   - Run the experiment using GPU enabled nodes and make it available.
   - dataset: Measurement/Monitoring Visibility
   
- * Comments:
+ * Comments
   - Share the Data feed in to the experiment. (Flow layer Dataset on GitHub)
   - Make Instructions how to use the data for users.
  
-  -- Leveraging the exisiting surface how we can
+ Leveraging the exisiting surface how we can
   - How to deploy in our existing cluster.
   - Define scripts/configruation for anyone to deploy on other cluster
   - Give options for GPU enabled deployment.
