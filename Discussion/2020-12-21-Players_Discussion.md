@@ -79,8 +79,19 @@ url: https://github.com/OFTEIN-NET/OFTEIN-MultiTenantPortal
   - Running the MNIST on jupyter notebook
 
 * Next Steps
-  - Deploy the Model and test
+  - Deploy the Model as usable for the cluster (deployed in GIST and accessable)
+  - Run the experiment using GPU enabled nodes and make it available.
   - dataset: Measurement/Monitoring Visibility
+  
+ * Comments:
+ - Share the Data feed in to the experiment. (Flow layer Dataset on GitHub)
+ - Make Instructions how to use the data for users.
+ 
+ ** Leveraging the exisiting surface how we can
+ - How to deploy in our existing cluster.
+ - Define scripts/configruation for anyone to deploy on other cluster
+ - Give options for GPU enabled deployment.
+ - Running on single node Vs Running on multiple nodes 
 
 
 
