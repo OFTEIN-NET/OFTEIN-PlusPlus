@@ -61,15 +61,15 @@ https://ofteinplusplus.main.202.28.193.102.xip.io/#
 * Look into KubeMetrics and directly fetch metrics.
 
 ### Chanthan (CHULA): 
-* Learn Machine learning algorithm. Try to set features and 
-* Two VM setup in the UM Tower 2. 
-* Preparing Demo for the Lab for RPKI/BGP..
-* Researching on methods to deploy Qugga containers oin the Kubernetes environment.
-* This research will be later used in service deployment.
+* Learn Machine learning algorithm. Try to set features.
 * Reconnect worker node with the Cluster Cluster.
 * Discuss about process of reconnecting with the Cluster. 
+
 ### Meng (UM): 
 *  Preparing Docker environment for service deployment and   demo of RPKI/BGP.
+* Two VM setup in the UM Tower 2. 
+* Researching on methods to deploy Qugga containers oin the Kubernetes environment.
+* This research will be later used in service deployment.
 * Local environment for Knowledge Transfer.
 * Working on methods to deploy Quagga containers in the Kubernetes environment. 
 
