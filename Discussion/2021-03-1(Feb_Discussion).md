@@ -55,7 +55,7 @@ https://ofteinplusplus.main.202.28.193.102.xip.io/#
 * Authorization: Earlier every new user has to be added by Admin manually. In this version user ID is added to back-end.
 * If the user is new back-end can notice
   
-## 3- Future tasks for Multi-tenant Portal
+## 1.3 - Future tasks for Multi-tenant Portal
 
 Work for Multi_tennant Portal
  * Check with back-end if returned user is authenticated in the back-end
