@@ -1,6 +1,6 @@
 ## OF@TEIN++ Playground: Players Discussion
 
-* Date: January, 25 20201
+* Date: March, 01 20201
 * Time: 5:30 – 7:00 PM KST
 * Meeting Place: Online (via Skype)
 Link: https://join.skype.com/V4L03Dw93ZXW
