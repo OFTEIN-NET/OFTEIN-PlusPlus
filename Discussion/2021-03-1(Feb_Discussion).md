@@ -72,7 +72,7 @@ Work for Multi_tennant Portal
 
 ## 3- Action items for documentation of Final report
  * Every Site will generate report from the technical Work 
- * Template for report will be generated
+ * Template for report will be shared to all.
  * Report submission by Mid of May (In case of Project extension till June 2021), otherwise report submission by End of March 2021.
 
 
