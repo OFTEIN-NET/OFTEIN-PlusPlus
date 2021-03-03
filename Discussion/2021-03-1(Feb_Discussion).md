@@ -46,7 +46,7 @@ https://ofteinplusplus.main.202.28.193.102.xip.io/#
   * Dashboard for the user interface specific to the person is displayed. 
   * Dashboard: Menu items are functional (Cluster status, List Workload, New Workload, Logout)
   * Dashboard: Information for Kubernetes Clusters shows running status. 
-  * Dashboard: Deployed workload dieplay Pods, Deployment and services. 
+  * Dashboard: Deployed workload Section now display Pods, Deployment and services. 
   * Dashboard: Created New Workload Section (Pod, Deployment, Service), where user can select YAML file and upload file for deployment
   * Added Delete functionality for the Deployed Workloads
  
