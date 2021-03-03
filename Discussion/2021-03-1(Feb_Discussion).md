@@ -1,4 +1,4 @@
-## OF@TEIN++ Playground: Players Discussion
+## OF@TEIN++ Playground: Players & Student-fellows Discussion
 
 * Date: March, 01 20201
 * Time: 5:30 – 7:00 PM KST
