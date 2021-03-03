@@ -41,12 +41,13 @@ url: https://github.com/OFTEIN-NET/OFTEIN-MultiTenantPortal
 * Front-end will be mainly the one in the Public Cloud. Deployment of Back-end in the Chula Tower
 https://ofteinplusplus.main.202.28.193.102.xip.io/#
 * For the Front-end Demo mainly these items were demonstrated by Dr. Usman
- * Authentication: First Multi-Tenant Portal Login page is shown with Redeisgned user Interface with three options of login capability (from social network Authentication provider).
- * Dashboard for the user interface specific to the person is displayed. 
- * Dashboard: Menu items are functional (Cluster status, List Workload, New Workload, Logout)
- * Dashboard: Information for Kubernetes Clusters shows running status. 
- * Dashboard: Deployed workload dieplay Pods, Deployment and services. 
- * Dashboard: Created New Workload Section (Pod, Deployment, Service), where user can select YAML file and upload file for deployment
+
+  * Authentication: First Multi-Tenant Portal Login page is shown with Redeisgned user Interface with three options of login capability (from social network Authentication provider).
+  * Dashboard for the user interface specific to the person is displayed. 
+  * Dashboard: Menu items are functional (Cluster status, List Workload, New Workload, Logout)
+  * Dashboard: Information for Kubernetes Clusters shows running status. 
+  * Dashboard: Deployed workload dieplay Pods, Deployment and services. 
+  * Dashboard: Created New Workload Section (Pod, Deployment, Service), where user can select YAML file and upload file for deployment
   * Added Delete functionality for the Deployed Workloads
  
 ## 1.2- Multi tenant portal :Demo for Back-end
