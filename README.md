@@ -6,7 +6,7 @@
 The core effort of the OF@TEIN++ project involves knowledge sharing between the ambassadors, players and students about new tools, programs and softwares while built-up technical skills and soft skills. Furthermore Monthly meetings between OF@TEIN++ Ambassadors, Players, and Students for exchange of ideas and views among the members on the activities are carried out.
  Major outcomes of the project includes Multi-tenant-portal Software Kubernetes backend development for containerised resource federation of OF@TEIN++ Platform that has been integrated with the frontend module. Using Kubernetes to deploy a Collaboration cluster setup, Integrate ONOS SDN-IP with RPKI and Containerized OVS and BGP configuration. 
  
- ##Outcomes:##
+ ## Outcomes:##
   * Multi-tenant Portal Software (https://github.com/OFTEIN-NET/OFTEIN-MultiTenantPortal): 
     *	Frontend application developed by GIST Tower 
     *	Back-end application developed by CHLA Tower
